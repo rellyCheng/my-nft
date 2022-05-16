@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "布偶"
+      },{
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "external_url": "https://openseacreatures.io/3", 
+    "description": "The world's most adorable and sensitive cat.",
+    "image": "http://file.1024sir.com/%E9%A6%99%E9%A6%993.jpeg",
+    "name": "香香"
+  }
+  
